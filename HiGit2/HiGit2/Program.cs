@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Helo Git for a second tinme ");
             Console.WriteLine("Hi from toshoba macine");
-            Console.WriteLine("change conflict from the toshiba");
+            Console.WriteLine("change conflict from dell");
         }
     }
 
